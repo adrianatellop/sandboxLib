@@ -18,9 +18,9 @@
     "url": "git@github.com:adrianatellop/sandboxLib.git"
   },
   "publishConfig": {
-    "@atellop-sl:registry":"https://npm.pkg.github.com"
+    "@adrianatellop:registry":"https://npm.pkg.github.com"
   },
-  "name": "@atellop-sl/sandbox-lib",
+  "name": "@adrianatellop/sandbox-lib",
   "version": "0.0.0",
   "description": "",
   "main": "index.jsx",
@@ -28,7 +28,7 @@
     "build": "tsc --module commonjs",
     "watch": "npm-watch"
   },
-  "author": "atellop globant",
+  "author": "adrianatellop",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.0.14",
